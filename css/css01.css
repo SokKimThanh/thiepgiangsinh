@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 22, 2016, 11:26:01 PM
+    Author     : Administrator
+*/
+
+body {
+  background-image: url("../img/merry-christmas_poster02.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  font-family: "Fredoka One", cursive;
+  color: white;
+}
+ 
+.card-bg{
+  /* C:\Users\thanh.sok\Desktop\ChucMungGiangSinh\html\img\thiepgiangsinh.jpg */
+  background-image: url("../img/thiepgiangsinh.jpg");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: auto;
+}
+h1.heading {
+  font-family: "Pacifico", cursive;
+}
+.jumbotron {
+  opacity: 0.4;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+h4 {
+  font-family: "Nunito Sans", sans-serif;
+}
+.bg-snow-tranparent-normal {
+  opacity: 1;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.bg-snow-tranparent-hidden {
+  opacity: 0.8;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.footer {
+  height: 250px;
+  font-size: 20px;
+  background-color: darkblue;
+  color: skyblue;
+  padding-top: 100px;
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.containeri {
+  position: relative;
+  text-align: center;
+}
+ 
+ 
+.polaroid {
+  position: absolute;
+  margin: auto;
+  width: 90%; 
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+  top: 151px;
+  right: 32px;
+}
+ 
