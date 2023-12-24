@@ -1,5 +1,5 @@
 function giang_sinh_ctrl($scope, ngAudio) { 
-  $scope.audio = ngAudio.load('ms/giangsinh.m4a');
+  $scope.audio = ngAudio.load('ms/giangsinh.mp3');
   var james = $("#bond");
 
   var right = function() {

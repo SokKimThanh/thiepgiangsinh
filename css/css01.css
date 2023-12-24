@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 body {
-  background-image: url("../img/merry-christmas_poster02.png");
+  background-image: url("../img/christmas/giangsinhcungem (13).jpg");
   background-size: auto;
   background-repeat: no-repeat;
   font-family: "Fredoka One", cursive;
@@ -17,8 +17,7 @@ body {
 }
  
 .card-bg{
-  /* C:\Users\thanh.sok\Desktop\ChucMungGiangSinh\html\img\thiepgiangsinh.jpg */
-  background-image: url("../img/thiepgiangsinh.jpg");
+  background-image: url("../img/christmas/thichemratnhieu11.jpg");
   background-repeat: no-repeat;
   background-position: left center;
   background-size: auto;
